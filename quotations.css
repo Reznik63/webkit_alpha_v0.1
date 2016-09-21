@@ -1,0 +1,82 @@
+/* BLOCKQOUTE */
+.blockquote {
+	min-height: 30px;
+	min-width: 350px;
+	border: 1px solid #e1e1e8;
+}
+/* Warning */
+.blockquote_warning {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset 7px 0px 1px -1px rgba(244,67,54,1);
+	color: #f44336;
+}
+
+/* Attention */
+.blockquote_attention {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset 7px 0px 1px -1px rgba(245,124,0,1);
+	color: #f57c00;
+}
+
+/* Info */
+.blockquote_info {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset 7px 0px 1px -1px rgba(0,188,212,1);
+	color: #00bcd4;
+}
+
+/* Accept */
+.blockquote_accept {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset 7px 0px 1px -1px rgba(56,142,60,1);
+	color: #388e3c;
+}
+
+/* INVERT BLOCKQOUTE */
+/* Warning-invert */
+.i-blockquote_warning {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset -7px 0px 1px -1px rgba(244,67,54,1);
+	color: #f44336;
+	text-align: right;
+}
+
+/* Attention-invert */
+.i-blockquote_attention {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset -7px 0px 1px -1px rgba(245,124,0,1);
+	color: #f57c00;
+	text-align: right;
+}
+
+/* Info-invert */
+.i-blockquote_info {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset -7px 0px 1px -1px rgba(0,188,212,1);
+	color: #00bcd4;
+	text-align: right;
+}
+
+/* Accept-invert */
+.i-blockquote_accept {
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+	box-shadow: inset -7px 0px 1px -1px rgba(56,142,60,1);
+	color: #388e3c;
+	text-align: right;
+}

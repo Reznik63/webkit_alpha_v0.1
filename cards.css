@@ -1,0 +1,41 @@
+/* All cards */
+.cards {
+	min-height: 30px;
+	min-width: 350px;
+}
+
+/* Warning */
+.warning {
+	background: #ffcdd2;
+	color: #f44336;
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+}
+
+/* Attention */
+.attention {
+	background: #ffe0b2;
+	color: #f57c00;
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+}
+
+/* Info */
+.info {
+	background: #b2ebf2;
+	color: #00bcd4;
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+}
+
+/* Accept */
+.accept {
+	background: #c8e6c9;
+	color: #388e3c;
+	padding: 15px;
+	border-radius: 2px;
+	margin: 5px;
+}

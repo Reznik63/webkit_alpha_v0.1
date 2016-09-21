@@ -1,0 +1,220 @@
+/* Разрмеры кнопок */
+.s_button {
+	min-width: 95px;
+	min-height: 35px;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 3px;
+	font-size: 12px;
+	cursor: pointer;
+	transition: 200ms;
+}
+.button {
+	min-width: 125px;
+	min-height: 50px;
+	padding: 15px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	font-size: 15px;
+	cursor: pointer;
+	transition: 200ms;
+}
+.large_button {
+	min-width: 160px;
+	min-height: 60px;
+	padding: 20px;
+	border: none;
+	outline: none;
+	border-radius: 7px;
+	font-size: 17px;
+	cursor: pointer;
+	transition: 200ms;
+}
+
+/* Lark */
+.lark_blue {
+	background: #507299;
+	color: #fff;
+}
+.lark_blue:hover {
+	background: #6888ad;
+	color: #fff;
+}
+.lark_blue:active {
+	background: #5779a1;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.lark_static {
+	background: #507299;
+	color: #fff;
+}
+
+/* Yellow */
+.yellow {
+	background: #ffb503;
+	color: #fff;
+}
+.yellow:hover {
+	background: #ffc103;
+	color: #fff;
+}
+.yellow:active {
+	background: #ffbb03;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.yellow_static {
+	background: #ffb503;
+	color: #fff;
+}
+
+/* Space gray */
+.space_gray {
+	background: #708090;
+	color: #fff;
+}
+.space_gray:hover {
+	background: #7a8b9c;
+	color: #fff;
+}
+.space_gray:active {
+	background: #6c7b8a;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.space_gray_static {
+	background: #708090;
+	color: #fff;
+}
+
+/* Blood red */
+.blood_red {
+	background: #890c10;
+	color: #fff;
+}
+.blood_red:hover {
+	background: #9a0d12;
+	color: #fff;
+}
+.blood_red:active {
+	background: #7e0b0f;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.blood_red_static {
+	background: #890c10;
+	color: #fff;
+}
+
+/* Grass green */
+.grass_green {
+	background: #5dae2a;
+	color: #fff;
+}
+.grass_green:hover {
+	background: #64bc2d;
+	color: #fff;
+}
+.grass_green:active {
+	background: #57a327;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.grass_green_static {
+	background: #5dae2a;
+	color: #fff;
+}
+
+/* Flow purple */
+.flow_purple {
+	background: #6a36b4;
+	color: #fff;
+}
+.flow_purple:hover {
+	background: #7b3fd0;
+	color: #fff;
+}
+.flow_purple:active {
+	background: #6333a7;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+
+/* Cyan */
+.cyan {
+	background: #009688;
+	color: #fff;
+}
+.cyan:hover {
+	background: #01a091;
+	color: #fff;
+}
+.cyan:active {
+	background: #018c7f;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.cyan_static {
+	background: #009688;
+	color: #fff;
+}
+
+/* Bear brown */
+.bear_brown {
+	background: #795548;
+	color: #fff;
+}
+.bear_brown:hover {
+	background: #865e50;
+	color: #fff;
+}
+.bear_brown:active {
+	background: #704f44;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.bear_brown_static {
+	background: #795548;
+	color: #fff;
+}
+
+/* Deep orange */
+.deep_orange {
+	background: #ee501f;
+	color: #fff;
+}
+.deep_orange:hover {
+	background: #f7511d;
+	color: #fff;
+}
+.deep_orange:active {
+	background: #e74d1c;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.deep_orange_static {
+	background: #ee501f;
+	color: #fff;
+}
+
+/* Shadow gray */
+.Shadow_gray {
+	background: #333333;
+	color: #fff;
+}
+.Shadow_gray:hover {
+	background: #3b3b3b;
+	color: #fff;
+}
+.Shadow_gray:active {
+	background: #2c2c2c;
+	color: #fff;
+	box-shadow: inset 0px 1px 2px rgba(0,0,0,0.11);
+}
+.Shadow_gray_static {
+	background: #333333;
+	color: #fff;
+}
